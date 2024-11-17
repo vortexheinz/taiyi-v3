@@ -63,8 +63,8 @@ def st_capture(output_func):
 st.set_page_config(layout="wide", page_title="堅太乙 - 太鳦排盘")
 
 # Define base URLs for file content
-BASE_URL_KINTAIYI = 'https://raw.githubusercontent.com/vortexheinz/kintaiyi-master/master/'
-# BASE_URL_KINTAIYI = 'https://raw.githubusercontent.com/kentang2017/kintaiyi/master/'
+# BASE_URL_KINTAIYI = 'https://raw.githubusercontent.com/vortexheinz/kintaiyi-master/master/'
+BASE_URL_KINTAIYI = 'https://raw.githubusercontent.com/kentang2017/kintaiyi/master/'
 BASE_URL_KINLIUREN = 'https://raw.githubusercontent.com/kentang2017/kinliuren/master/'
 
 # Create Tabs
