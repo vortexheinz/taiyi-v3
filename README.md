@@ -50,6 +50,7 @@ kintaiyi.Taiyi(2023,1,30,12,0).pan(3,0)
 
 ## Streamlit也提供了一個「自動執行」的功能，方便大家開發。
 ## 如果要使用這個功能，可以在Settings的地方開啟
+pip install pendulum==2.0.5
 
 ## 2. 安裝套件 Installation
 ```python
